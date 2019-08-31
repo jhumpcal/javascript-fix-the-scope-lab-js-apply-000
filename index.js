@@ -12,7 +12,6 @@ function yourAnimal() {
   return animal
 }
 const two = 2 
-const n = 41
 
 function add2(n) {
   return n + two
